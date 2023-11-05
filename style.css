@@ -2,5 +2,13 @@
     margin: 5%;
     padding: 1%;
     border: solid 10px black;
-    
+    width: auto;
+    height: auto;
+    background-color: blanchedalmond;
+}
+
+.algo{
+    padding: 10%;
+    text-align: justify;
+
 }
