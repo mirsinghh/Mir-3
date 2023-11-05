@@ -1,14 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&family=Nunito+Sans:wght@200&display=swap');
+
 .container {
-    margin: 5%;
-    padding: 1%;
-    border: solid 10px black;
     width: auto;
     height: auto;
-    background-color: blanchedalmond;
 }
 
 .algo{
     padding: 10%;
     text-align: justify;
-
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
 }
